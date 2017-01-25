@@ -1,8 +1,9 @@
-# Startpage
+## Startpage for firefox
 
-Live here: http://dylanaraps.com/startpage
+Forked from dylanaraps, who hosts it live at:  
+http://dylanaraps.com/startpage
 
 - Links can be changed in the html file.
 - Colors can be changed in the css file.
 
-![scrot](https://ipfs.pics/ipfs/QmefqoNgvgV2QWJpvKuzx8hxaD5kFiRUB2Nt8AtpAtnh58)
+![screenshot](https://github.com/Amar1729/startpage/blob/gh-pages/screenshot.png)
